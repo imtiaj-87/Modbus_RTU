@@ -1,0 +1,1 @@
+"./CRC_Processing.obj" "./MB_Processor.obj" "./gpio.obj" "./interrupt.obj" "./main.obj" "./sysctl.obj" "./tm4c129encpdt_startup_ccs.obj" "./uart.obj" "./uartstdio.obj" "../tm4c129encpdt.cmd" -l"C:/ti/TivaWare_C_Series-2.2.0.295/driverlib/ccs/Debug/driverlib.lib" -llibc.a 
